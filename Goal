@@ -1,0 +1,10 @@
+nama = input("nama?")
+umur = int(input("umur?"))
+target = input("target?")
+tahun = int(input("di tahun?"))
+
+print("Nama:", nama)
+print("Umur:", umur)
+print("Target:", target)
+print("Tahun:", tahun)
+print("Target saya adalah kuliah IT di Jepang pada tahun 2027.")
