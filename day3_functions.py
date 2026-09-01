@@ -78,5 +78,5 @@ score4 = check_score(8.5)
 
 print("score : 4.5", score1)
 print("score : 6", score2)
-print("score : 7,5",score3)
+print("score : 7.5",score3)
 print("score : 8.5 ",score4)
